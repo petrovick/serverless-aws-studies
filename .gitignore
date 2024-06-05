@@ -1,0 +1,3 @@
+.env
+demo04-trigger-dynamodb/original/trigger-dynamo/*
+demo05-envs/original/lambda-environment/*
